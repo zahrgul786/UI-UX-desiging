@@ -1,34 +1,17 @@
------------------------
-# README
------------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
 
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
 
-Template Info:
------------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+🧠 I'm currently learning...
 
+👯‍♀️ I'm looking to collaborate on...
 
-Changelog:
------------------------
-Version 1.0 14-05-2018
-- initial release 
+🤔 I'm looking for help with...
 
+💬 Ask me about...
 
-Credits:
------------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
+📫 How to reach me...
 
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+😄 Pronouns...
+
+⚡️ Fun fact...
